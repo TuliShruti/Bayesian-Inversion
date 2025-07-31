@@ -107,6 +107,6 @@ MIT — free to use, modify & share with attribution.
 
 ## 🙌 Acknowledgements
 
-Created under the supervision of **Prof. \[Partha P. mandal]**. Field data courtesy of **\[IIT(ISM) Dhanbad]**.
+Created under the supervision of **Prof. Partha P. mandal**. Field data courtesy of **IIT(ISM) Dhanbad**.
 
 *Feel free to open issues / pull requests — feedback is welcome!*
